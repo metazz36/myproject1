@@ -6,5 +6,7 @@ public class myclass1 {
         System.out.println("444");
         System.out.println("hot-fix");
         System.out.println("master test");
+        System.out.println("master push");
+
     }
 }
